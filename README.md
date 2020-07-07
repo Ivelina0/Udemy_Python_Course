@@ -4,7 +4,7 @@ The repository contains exercises I answered for the Udemy course on Python for 
 The course contains:
  - Python basics
  - Numpy basics
- - Pandas basics
+ - Pandas exercises: Salaries analysis and E-commerce purchases analysis
  - Matplotlib & Seaborn 
  - Plotly & Cufflinks
  - Geographical plotting
