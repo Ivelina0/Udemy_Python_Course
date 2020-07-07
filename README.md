@@ -2,8 +2,8 @@
 The repository contains exercises I answered for the Udemy course on Python for Machine learning.
 
 The course contains:
- - Python basics
- - Numpy basics
+ - Python basics - quick Crash Course exercises
+ - Numpy basics - working with numpy arrays
  - Pandas exercises: Salaries analysis and E-commerce purchases analysis
  - Matplotlib & Seaborn 
  - Plotly & Cufflinks
